@@ -1,0 +1,4 @@
+This program can only run on x86_64 Linux.
+
+To build this program, unpack the CPIO package and run ./build.sh.
+After running ./build.sh, you can run build/wltools for more details.
